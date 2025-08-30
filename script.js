@@ -35,10 +35,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td>...</td>
-                                <td>...</td>
-                                <td>...</td>
-                                <td>...</td>
+                                <td>*石</td>
+                                <td>2025年8月30日</td>
+                                <td>18.00元</td>
+                                <td> </td>
                             </tr>
                             <tr>
                                 <td>...</td>
