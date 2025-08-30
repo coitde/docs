@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <td>*石</td>
                                 <td>2025年8月30日</td>
                                 <td>微信 WeChat</td>
-                                <td>18.00元</td>
+                                <td>18.00元</td> 
                                 <td> </td>
                             </tr>
                             <tr>
