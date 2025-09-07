@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <img src="./img1.jpg" alt="科技酱" width="200"><img src="./img2.png" alt="电脑科学" width="200">
                 <p>在这里分享技术，资源，以及一些有趣的东西。</p>
                 <a href="https://space.bilibili.com/1768832152?spm_id_from=333.1007.0.0" target="_blank">Bilibili</a>
-                <p> <a href="https://www.rainyun.com/NjcxNjE1_" target="_blank">雨云</a>  优惠码: NjcxNjE1</p>
                 
                 <h3>最新文章</h3>
                 <ul>
