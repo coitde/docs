@@ -35,6 +35,13 @@ document.addEventListener('DOMContentLoaded', () => {
                         </thead>
                         <tbody>
                             <tr>
+                                <td>*吴</td>
+                                <td>2025年9月8日</td>
+                                <td>微信 WeChat</td>
+                                <td>5.00元</td>
+                                <td> </td>
+                            </tr>
+                            <tr>
                                 <td>G*t</td>
                                 <td>2025年9月1日</td>
                                 <td>微信 WeChat</td>
@@ -54,13 +61,6 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <td>微信 WeChat</td>
                                 <td>18.00元</td>
                                 <td> </td>
-                            </tr>
-                             <tr>
-                                <td>...</td>
-                                <td>...</td>
-                                <td>...</td>
-                                <td>...</td>
-                                <td>...</td>
                             </tr>
                             <tr>
                                 <td>...</td>
