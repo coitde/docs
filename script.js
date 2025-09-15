@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 <h3>最新文章</h3>
                 <ul>
+                    <li><a href="#3">给大家推荐几款浏览器插件</a></li>
                     <li><a href="#2">国内如何访问Github</a></li>
                 </ul>
 
